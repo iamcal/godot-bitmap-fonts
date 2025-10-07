@@ -1,6 +1,6 @@
 # Bitmap Fonts
 
-Custom Bitmap Font resource addon for Gotdot 4.x.
+Custom Bitmap Font resource addon for Gotdot 4.x., allowing easy definition of bitmap fonts from arbitrary image textures.
 
 After adding this addon to your project, create a new resource of type "BitmapFont".
 
