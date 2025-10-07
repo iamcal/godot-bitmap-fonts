@@ -11,7 +11,7 @@ After creating the resource, double click on it in the FileSystem tab to open it
 Set the _Texture_ property to the image of the font.
 You will need to define one or more "character blocks" - sets of characters which are represented by the image.
 If you have a simple image with fixed-width characters, all in a row horizontally, you will only need to define a single block.
-Anter the actual characters (e.g. "ABCD...") in the _characters_ property, the x/y offset where those characters are found in the texture, and the width and height of each character, _including the space after each one_.
+Enter the actual characters (e.g. "ABCD...") in the _characters_ property, the x/y offset where those characters are found in the texture, and the width and height of each character, _including the space after each one_.
 
 ![BitmapFont Inspector](./.images/inspector.png)
 
